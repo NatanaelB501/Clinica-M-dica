@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    margin: 7% 10% 0 5%;
+    align-items: center;
+    gap: 5%;
+}
+
+.home__titulo {
+    margin-bottom: 5%;
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--cor-titulos);
+}
+
+.home__texto {
+    color: var(--cor-subtitulos);
+}

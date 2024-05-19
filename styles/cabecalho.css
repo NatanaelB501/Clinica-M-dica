@@ -1,0 +1,12 @@
+.cabecalho {
+    background-color: var(--cor-fundo-janelas);
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 4%;
+}
+
+.cabecalho__icones {
+    display: flex;
+    gap: 50%;
+    padding-right: 14%;
+}

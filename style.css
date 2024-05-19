@@ -1,0 +1,22 @@
+@import url(./styles/cabecalho.css);
+@import url(./styles/home.css);
+@import url(./styles/box.css);
+
+:root {
+     --cor-fundo: #F8F7FD;
+     --cor-fundo-janelas: #ffffff;
+     --cor-relogio: #333333;
+     --cor-titulos: #464646;
+     --cor-subtitulos: #A3A3A3;
+     --cor-divisor: #EDEDED;
+     --cor-laranja: #FFB050;
+     --cor-azul: #4894FF;
+     --fonte-principal: Montserrat;
+}
+
+body {
+    background: var(--cor-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+}
